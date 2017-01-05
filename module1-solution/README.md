@@ -1,2 +1,2 @@
 # ng-tut
-Coursera angularJS course
+Coursera angularJS course module1 solution
