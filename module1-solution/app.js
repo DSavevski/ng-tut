@@ -14,7 +14,7 @@
 
                 for (var tmp in parts) {
                     //console.log(parts[tmp]);
-                    if (parts[tmp].length > 1) { //checking for an empty string
+                    if (parts[tmp].length >= 1) { //checking for an empty string
                         cnt++;
                     }
                 }
